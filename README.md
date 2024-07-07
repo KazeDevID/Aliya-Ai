@@ -77,23 +77,6 @@ $ node .
 
 ---------
 
-#### GET
-
-```http
-GET /
-Accept: application/json
-```
-
-#### POST
-
-```http
-POST /
-Content-Type: application/json
-
-{
- data: {}
-}
-```
 
 ## Command Aktif
 
